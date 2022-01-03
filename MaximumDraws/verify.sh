@@ -1,0 +1,1 @@
+/Users/brian.ujiie/code/hackerrank/__templates/verify.sh
